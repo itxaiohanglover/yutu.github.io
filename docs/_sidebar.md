@@ -1,5 +1,7 @@
-* [关于余途](zh-cn/about.md)
-* **后端**
-  * [Java](zh-cn/后端/Java.md)
-* **前端**
-  * [Vue](zh-cn/前端/Vue.md)
+- [关于余途](/README.md)
+- **前端**
+  - [学习路线](/zh-cn/前端\学习路线\README.md)
+- **后端**
+  - [IDEA快捷键](/zh-cn/后端\IDEA快捷键\IDEA快捷键.md)
+  - [Mysql](/zh-cn/后端\Mysql\MySQL数据库笔记.md)
+  - [学习路线](/zh-cn/后端\学习路线\Java学习路线.md)
