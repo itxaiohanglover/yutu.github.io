@@ -2,7 +2,7 @@
 
 ## 1、HTML、CSS、JS三件套
 
-HTML、CSS、JS（一个月）
+### HTML、CSS、JS（一个月）
 
 黑马程序员pink老师：[黑马程序员pink老师前端入门教程，零基础必看的h5(html5)+css3+移动端前端视频教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV14J4114768)
 
@@ -43,6 +43,8 @@ Vue官网： [介绍 — Vue.js (vuejs.org)](https://cn.vuejs.org/v2/guide/)
 Element-ui： [组件 | Element](https://element.eleme.cn/#/zh-CN/component/installation)（PC端）
 
 vant-ui：[Vant Weapp - 轻量、可靠的小程序 UI 组件库 (youzan.github.io)](https://youzan.github.io/vant-weapp/)（移动端）
+
+Vue3.0 + TS +pinia ： https://www.bilibili.com/video/BV1dS4y1y7vd
 
 框架实战：
 
