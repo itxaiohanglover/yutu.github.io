@@ -5,4 +5,5 @@
   - [IDEA快捷键](/zh-cn/后端\IDEA快捷键\IDEA快捷键.md)
   - [Mysql](/zh-cn/后端\Mysql\MySQL数据库笔记.md)
   - [学习路线](/zh-cn/后端\学习路线\Java学习路线.md)
+  - [项目笔记](/zh-cn/后端\项目笔记\瑞吉外卖.md)
 - [导航](/zh-cn/导航\导航.md)
